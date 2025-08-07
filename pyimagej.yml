@@ -126,4 +126,5 @@ dependencies:
       - pywavelets==1.4.1
       - pywin32==306
       - scikit-image==0.21.0
-prefix: C:\Users\wyzzh\.conda\envs\pyimagej
+
+
